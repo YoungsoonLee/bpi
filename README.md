@@ -47,7 +47,7 @@ it to stdout.
   > and then can call start function with the category for extended function.  
 
 * Does it scrape the page, or rely on the HN API?  
-  > I used HA API. Because I love open source or opened API. I think this is part of reusability.  
+  > I used HA API. Because I love open source or open API. I think this is part of reusability.  
 
 * Is it actually written in Perl, or mining bitcoin?
   > No, But If need it, I can do it~!  Thank you ~!  
