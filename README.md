@@ -26,8 +26,9 @@ it to stdout.
 
 * What is the test coverage, and do tests pass? What about go test -race ?  
     > Yes I tested funtions.  
-    >    Especailly, test pipeline funtion(./getnews/getnews.go/process function) with race condition.  
+    >    Especailly, tested pipeline funtion(./getnews/getnews.go/process function) with race condition.  
     >    It can check with run go test -run nope ./... -race  
+    >    all passed
 
 * Is the code readable? Are confusing bits commented sufficiently?  
     > Yes, I add comments sufficiently.  
